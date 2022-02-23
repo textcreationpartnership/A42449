@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apostles Paul and James reconciled in the point of justification, and the controversies about it among Christians amicably composed</title>
+            <author>Gataker, Charles, 1614 or 15-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42449</idno>
+            <idno type="STC">Wing G304A</idno>
+            <idno type="STC">ESTC R216435</idno>
+            <idno type="EEBO-CITATION">99828166</idno>
+            <idno type="PROQUEST">99828166</idno>
+            <idno type="VID">32593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apostles Paul and James reconciled in the point of justification, and the controversies about it among Christians amicably composed</title>
+                  <author>Gataker, Charles, 1614 or 15-1680.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Charles Gataker.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the the Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justification --  Early works to 1800.</term>
+               <term>Absolution --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32593:1"/>
+            <head>The Apoſtles <hi>Paul</hi> and <hi>James</hi> reconciled in the Point of Juſtification, and the Controverſies about it among Chriſtians amicably compoſed.</head>
+            <p n="1">1. <note place="margin">
+                  <p>
+                     <hi>Solâ ſide nos juſtificari Doctri<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a eſt ſaluberrima, ac conſolationis ple<g ref="char:EOLhyphen"/>niſſima. Anglic. Confeſſ. art.</hi> 11.</p>
+                  <p>
+                     <hi>Verum &amp; id tamen non imus in<g ref="char:EOLhyphen"/>ficias, juſtificari nos etiam ex operibus, ut D. Jacobus dixit, rependit enim Deus unicui<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſecundum ſua opera. Et non qui legem audiunt, ſed qui faciunt, juſtificabuntur, Rom.</hi> 2. <hi>Sed iſta noſtri juſtificatio, id eſt, ultima vitae aeternae adjudicatio &amp; exhibitio, naſcitur &amp; pendet ex juſtificatione fidei, ex qua. &amp; ipſa opera bona proveniunt, &amp; habent id, ut licet ex ſe nihil minus valeant, vitam aeternam nobis mere<g ref="char:EOLhyphen"/>antur. Inde ſane, quod per fidem jam Deus nos inter filios ſuos habet, noſtra ex ejus Spiritu patrata opera ipſi tanti ſunt, tanta<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> compenſare mercede dignatur.</hi> Bucer <hi>Cont. E<g ref="char:EOLhyphen"/>piſcop. Abrinceus,</hi> pag. 54.</p>
+               </note> EVangelical Juſtification is conſide<g ref="char:EOLhyphen"/>rable two ways; as a Gift, and as a Reward. Conſidered as a Gift, ſo it is abſolutely free, and freely given of God in Chriſt by the Goſpel; and we thro Faith, and through Faith only, do thankfully, ſiducially, obediently and con<g ref="char:EOLhyphen"/>ſtantly receive it, and ſo from the nature of the thing it becomes ours. This I think is <hi>Paul</hi>'s meaning, <hi>Rom.</hi> 3.28. &amp; 11.6. <hi>Epheſ.</hi> 2.8, 9.</p>
+            <p n="2">2. Conſidered as a Reward; ſo alſo it is abſolutely free, of Grace and not of Debt; yet it is conferred upon none but the peni<g ref="char:EOLhyphen"/>tent, the faithful, the regenerate, the Lovers of God and his Saints, the fruitful in good Works, the godly in Chriſt Jeſus; and theſe are evangelically worthy of it, becauſe of God's Promiſe in Chriſt. This I think is <hi>James</hi>'s meaning, <hi>Rom.</hi> 4.4. <hi>Jam.</hi> 2.21, 24. <hi>Rom.</hi> 2.6, 11, 16.</p>
+            <p n="3">3. Both Apoſtles mean Juſtification before God, and by it they under<g ref="char:EOLhyphen"/>ſtand the Abſolution of one who hath ſinned, from all his Sins, and from eternal Curſe and Damnation for the ſame. In this only they differ; <hi>Paul</hi> conſiders God <hi>as a Donor,</hi> as infinitely good and gracious to ſome and not to others; to <hi>Abel</hi> and <hi>Peter,</hi> and not to <hi>Cain</hi> and <hi>Judas.</hi> And ſo the ſum of his Doctrine is plainly this, That the whole of a Sinner's Juſtification, Pardon, Adoption and Salvation, from firſt to laſt, is from the meer Grace and Mercy of God in Chriſt by the Goſpel through Faith, and through Faith only, as diſtinct from, precedent to the cauſe of, and inſeparably connexed with Sanctification and good Works. <hi>Mat.</hi> 13.11. <hi>Joh.</hi> 10.28. <hi>Epheſ.</hi> 1.3, 4.</p>
+            <p n="4">4. <hi>James</hi> conſiders God <hi>as a Judg,</hi> infinitely juſt and righteous, and paſſing Sentence upon Men by Jeſus Chriſt, according to the Goſpel, with<g ref="char:EOLhyphen"/>out
+<pb n="2" facs="tcp:32593:2" rendition="simple:additions"/>out reſpect of Perſons. And ſo the ſum of his Doctrine is clearly this: That God, as he is the Judg of all the World by Jeſus Chriſt, cannot but <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, for ever difference between the righteous and the wicked, the penitent and the impenitent, the faith<g ref="char:EOLhyphen"/>ful and the faithleſs, the Lovers and Haters of God and his Saints, the fruit<g ref="char:EOLhyphen"/>ful in good Works and the fruitleſs, the obedient and diſobedient, by loving, delighting in, approving, pardoning, and glorifying the one of his meer Grace and Goodneſs, becauſe of his own holy Oath and Covenant in Chriſt; by hating, abhorring, diſapproving, curſing and damning the other, of Debt and due Deſert, becauſe of their Sins perſiſted in, and ne<g ref="char:EOLhyphen"/>ver truly repented of; by rendring to both according to their Works. <hi>Gen.</hi> 18.25.</p>
+            <p n="5">5. According to <hi>Paul,</hi> Juſtification and Pardon of Sin, as a free Gift in Chriſt, received by Faith, is antecedent to, and by gracious ne<g ref="char:EOLhyphen"/>ceſſity the cauſe of all our holy Love; and therefore the more is for<g ref="char:EOLhyphen"/>given us, the more we love; <hi>but to whom little is forgiven, the ſame loveth little:</hi> Luk. 7.47.</p>
+            <p n="6">6. According to <hi>James,</hi> not only Faith, but alſo Love, hope in God's Mercy, filial Fear, hatred of Sin, heavenly Knowledg, forgiving others their Treſpaſſes againſt us, and the like Evangelical Vertues and Graces, theſe are antecedent to, and by gracious neceſſity prepare and make us meet for, and capable of pardon of Sin, Juſtification before God, Adop<g ref="char:EOLhyphen"/>tion, and right to eternal Salvation, as a Reward of Grace aſſured by God's holy Oath and Covenant in Chriſt to Perſons ſo and ſo qualified. <hi>Of a Truth I perceive that God is no Reſpecter of Perſons: But in every Nation, he that feareth him, and worketh Righteouſneſs, is accepted with him.</hi> Act. 10.34, 35.</p>
+            <p n="7">7. According to <hi>Paul,</hi> no Sinner, while un<g ref="char:EOLhyphen"/>pardoned and liable to eternal Damnation,
+<note place="margin">A holy Sin-hating God, enga<g ref="char:EOLhyphen"/>ged in Juſtice to damn the Sinner, is not ſuch an Object as a guilty Soul can love. Mr. <hi>Baxter</hi>'s <hi>Life of Faith,</hi> p. 218.</note> can ſincerely love God: Fear and flee from him, as his righteous and terrible Judg, he may, and needs muſt; but love and draw nigh to him with filial Reverence, as his gracious God and reconciled Father in Chriſt, he cannot. But as ſoon as we are by God's Grace and Mercy in Chriſt through Faith freely pardoned all our Sins, and by the ſame Faith perceive that ſo we are, then we cannot but by ſweet and bleſſed neceſſity love God, reſign our ſelves to his Will, and be ſincerely obedient to him in all things. <hi>In whom alſo after that ye believed, ye were ſealed with that holy Spirit of Promiſe, which is the Earneſt of our Inheritance.</hi> Epheſ. 1.13, 14. That is, as I conceive, Pardon of Sin, and Juſtification through Faith in Chriſt, is antecedent; and fealing with his holy Spirit (whereby is meant Aſſurance and Sanctifica<g ref="char:EOLhyphen"/>tion)
+<pb n="3" facs="tcp:32593:2"/>is by gracious neceſſity conſequent, and ſo they are related; and as related, they are by nature together without all poſſible Priority.</p>
+            <p n="8">8. According to <hi>James,</hi> no ungodly and impenitent Perſon, while ſuch, is capable of Pardon of Sin and Evangelical Juſtification; it is a Contra<g ref="char:EOLhyphen"/>diction to the eternal Nature of the holy, juſt and good God, to pardon and juſtify a Sinner in his Ungodlineſs, and ſet his Conſcience free from eternal Guilt and Condemnation before and without heavenly Repen<g ref="char:EOLhyphen"/>tance; and there cannot be heavenly Repentance without Faith, Hope, Love, and Participation of the Divine and Godly Nature. <hi>For what Fellowſhip hath Righteouſneſs with <g ref="char:V">Ʋ</g>nrighteouſneſs? And what Communion hath Light with Darkneſs? And what Concord hath Chriſt with</hi> Belial? 2 <hi>Cor.</hi> 6.14, 15. The penitent Thief upon the Croſs who was pardoned, juſti<g ref="char:EOLhyphen"/>fied and ſaved, as at the laſt Gaſp, yet was he not without good Works in the ſight of God: For together with Faith, he had Hope, Love, filial Fear, hatred of Sin, godly Sorrow for it, penitent Confeſſion, earneſt Prayer, giving Glory to Chriſt, Meekneſs, Patience, holy Submiſſion to God's Will, compaſſionate, wiſe and faithful Reproof towards the other Thief, wiſe care for his own Soul, and all other heavenly Graces and Vertues neceſſarily comprized in Regeneration, and being a new Creature.</p>
+            <p n="9">9. According to <hi>Paul,</hi> we muſt firſt receive from God before we can return any thing to him worthy his Acceptance: <hi>For all things come of him, and of his own it is that we give him;</hi> 1 Chron. 29.14. <hi>What haſt thou that thou didſt not receive?</hi> 1 Cor. 4.7. Now there are two ſorts of Bleſſings, which we need, and God hath to beſtow, temporal and eternal. Temporal, worldly and corporal Bleſſings are common to all, both good and bad Perſons, and by them<g ref="char:EOLhyphen"/>ſelves cannot cauſe in any Sinner holy Love to God. For if we love God,
+<note place="margin">
+                  <p>All true Love unto God, and (conſequently) all true Godlineſs and Uprightneſs of Heart ſpring<g ref="char:EOLhyphen"/>eth from a lively Faith, even ſuch a Faith as maketh known to a Man God's Love to him in Chriſt, and maketh him able to receive Chriſt, and to reſt upon him. Mr. <hi>Hilderſham</hi> on <hi>Pſal.</hi> 51. pag. 366.</p>
+                  <p>It is certainly, either the want of Faith, and aſſurance of God's Love, or a falſe and carnal aſſu<g ref="char:EOLhyphen"/>rance of it, that is the true cauſe of all that Licentiouſneſs and Lewdneſs that reigneth in the World. <hi>Id. ib.</hi> p. 576.</p>
+               </note> only or chiefly becauſe of Worldly, Temporal and Corporal Bleſſings, ſuch Love is not chaſte and ſincere, but adulterous and falſe: Eternal, Heavenly and Spiritual Bleſſings cannot be had ſave by God's free Gift in Chriſt, this free Gift in Chriſt we cannot have ſave by receiving it, (for giving and receiving are relative) and receive it we cannot ſave only by Divine Faith; <hi>this being the ſubſtance of things hoped for, the Evidence of things not ſeen,</hi> Heb. 11.1. Being made partakers of Pardon of Sin, Juſtification, Adoption, and right to eternal Salvation, by God's free Gift
+<pb n="4" facs="tcp:32593:3"/>in Chriſt through Faith, and by the ſame Faith inwardly perceiving this our bleſſed and happy State, we cannot but by gracious neceſſity love God, and live unto him, and be fruitful in all good Works in ſome meaſure. <hi>We love him, becauſe he firſt loved us;</hi> 1 Joh. 4.19. That is, God's elect<g ref="char:EOLhyphen"/>ing, eternal, and diſtinguiſhing Love to our loſt Souls in the free and full forgiveneſs of our Sins, for the ſake of Chriſt through Faith, is the Spring and powerful cauſe of all our holy Love to him; <hi>Articulus ſtantis aut ca<g ref="char:EOLhyphen"/>dentis Eccleſiae.</hi>
+            </p>
+            <p n="10">10. According to <hi>James,</hi> God doth firſt make us ſincere Converts, he gives us Faith, Hope, Love, heavenly Repentance and Regeneration, and thereby makes us amiable and lovely in his ſight,
+<note place="margin">Rev. 3.4. 1 Joh. 1.9. Acts 3.19. Rom. 2.2, 6. Acts 5.31. Eph. 2.8. Gal. 2.16. Rev. 22.14.</note> and evangelically worthy of Pardon of Sin, Juſtification, Adoption, and right to eternal Glory, for the ſake of his gracious Covenant in Chriſt; and then he, as ſitting upon his Throne of Grace and Mercy, doth judg his Servants to be what really by his Grace they are, not abſolutely ſinleſs, but ſincerely penitent, truly juſt and upright in Heart before him, real Saints, and evangelically worthy; and according<g ref="char:EOLhyphen"/>ly he doth inſtantly pardon their Sins, juſtify them from the Curſe of the Law, adopt them for his Children, and give them right to the Kingdom of Heaven. Herein God is ſupream Judg, renewed Conſcience is his Agent, the Perſon juſtified is a penitent Sinner, the Heart or inward Man is the Court, the Goſpel is the Rule of Judi<g ref="char:EOLhyphen"/>cature,
+<note place="margin">
+                  <p>
+                     <hi>Fagi Enchirid. Diſp.</hi> 61. <hi>Theſ.</hi> 24. <hi>Bucer de vera Eccleſiar. reconcil.</hi> p. 145.</p>
+                  <p>Dr. <hi>Goodwin</hi> of the Puniſhment of Sin in Hell, <hi>p.</hi> 85. Mr. <hi>Flavel</hi> of the Soul, <hi>p.</hi> 21. Mr. <hi>Downam</hi>'s Guide to Godlineſs, <hi>p.</hi> 66.</p>
+               </note> Faith is the Organ, Inſtrument, or Mean whereby renewed Conſcience doth act, heavenly Repentance and Regeneration is the Evidence and Teſtimony of the Holy Ghoſt, Jeſus Chriſt is Advocate, and Juſti<g ref="char:EOLhyphen"/>fication is the Sentence whereby God doth graciouſly acquit and abſolve the penitent Perſon from all his Sins and from eternal Curſe and Damnation for the ſame, and gives him right to eternal Glory as a Reward of Grace. As when the Miniſter doth foundly preach the Goſpel, the Word in his Mouth is not the Word of Man, but the Word of God by Man his Embaſſador; ſo what renewed Conſcience in the Sinner's Boſom, ſhall, by Authority and Commiſſion from God, according to his Word, by Faith rightly and truly pronounce, ſentence, and decide touching his ſpiritual and eternal State, this is not the ſentence, Judgment, and Deci<g ref="char:EOLhyphen"/>ſion of Man, but of God by Conſcience, his Agent and Miniſter inwardly through Faith; and therefore it muſt needs be ſupream and infallible, we may moſt ſafely rely on it, it is a ſure Rock, and fills the Soul with found
+<pb n="5" facs="tcp:32593:3"/>Joy. <hi>For our rejoycing is this, the Teſtimony of our Conſcience,</hi> &amp;c. 2 Cor. 1.12. <hi>If our Heart condemn us not, then have we Confidence towards God:</hi> 1 Joh. 3.21.</p>
+            <p n="11">11. <note place="margin">
+                  <hi>Bradſha. de Juſtiſ. cap.</hi> 3. Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter</hi>'s Call to the Unconverted, <hi>p.</hi> 105. And his Conſideration of the Subſtance of Mr. <hi>Cartwright</hi>'s Exceptions, <hi>p.</hi> 5.</note> There is a kind of Juſtification in the Conſcience of the Devil: For once he was a good and holy Angel; for ſo long as he con<g ref="char:EOLhyphen"/>tinued Good and Holy, God, by Conſcience his Agent in Satan's Boſom, will for ever ju<g ref="char:EOLhyphen"/>ſtify and acquit him, and lay nothing to his Charge. But becauſe he wilfully forſook God, and became his moſt im<g ref="char:EOLhyphen"/>placable Enemy; therefore the ſame Conſcience in Satan's Boſom cannot, but againſt his Will, for ever juſtify and acquit God, and ſilence and con<g ref="char:EOLhyphen"/>demn himſelf. This is proper legal Juſtification for ever in the Conſci<g ref="char:EOLhyphen"/>ence of the Devil, of Debt, and not of Grace, without all favour and compaſſion to him.</p>
+            <p n="12">12. <note place="margin">Mr. <hi>Jer. Dyke</hi> of Scan<g ref="char:EOLhyphen"/>dals, <hi>p.</hi> 99. <hi>Deut.</hi> 29.19, 20, 21. <hi>Pſal.</hi> 50.21. <hi>Rev.</hi> 2.9.</note> There is a Juſtification of a Sinner <hi>in</hi> his Ungod<g ref="char:EOLhyphen"/>lineſs, and there is a Juſtification of a Sinner <hi>from</hi> his Ungodlineſs. The former is no Mercy, but a dreadful Judgment, a diſmal Juſtification, of which Satan is Au<g ref="char:EOLhyphen"/>thor; it is the chief Pillar of his Kingdom, whereby wicked Ones bleſs themſelves in their Wickedneſs, and promiſe to themſelves Impunity, Par<g ref="char:EOLhyphen"/>don, Peace with God and Eternal Salvation, without Heavenly Repen<g ref="char:EOLhyphen"/>tance and Regeneration. <hi>Luther</hi> (as <hi>Caſſander</hi> relates, <hi>Conſult. Art.</hi> 4.) thought this a worſe Error than any in Popery.</p>
+            <p n="13">13. The latter is a moſt ſweet Mercy and precious Priviledg the princi<g ref="char:EOLhyphen"/>pal Pillar of Chriſt's Kingdom. For <hi>whom he juſtified, them he alſo glorified,</hi> Rom. 8.30. Of this Juſtification we thus read; <hi>But to him that worketh not, but believeth on him that juſtifieth the <g ref="char:V">Ʋ</g>ngodly, his Faith is counted for Righteouſneſs,</hi> Rom. 4.5. That is, as I conceive, <hi>Abraham</hi> once was Un<g ref="char:EOLhyphen"/>godly, and by Nature a Child of Wrath, even as others. God of his meer Grace and Mercy in Chriſt, gave him divine Belief of the Goſpel, dif<g ref="char:EOLhyphen"/>fering in kind from Belief in the Devils and all reprobate Men. By this divine Belief, <hi>Abraham</hi> did deny and go out of himſelf, renounce all Truſt in his own Righteouſneſs, ſee an utter emptineſs and inſufficiency in him<g ref="char:EOLhyphen"/>ſelf, ſee an all-ſufficiency of Wiſdom, Righteouſneſs, Sanctification and Redemption for his Soul in Chriſt, truly repent of his Sins, lay hold upon God's Promiſe of eternal Mercy in Chriſt, and became a new Man; and therefore God did graciouſly reckon, repute, and judg this his divine Be<g ref="char:EOLhyphen"/>lief to be what really it was, Heavenly, Supernatural, Evangelical, and Soul-ſaving Righteouſneſs.</p>
+            <p n="14">
+               <pb n="6" facs="tcp:32593:4"/> 14. <note place="margin">
+                  <p>
+                     <hi>Credimus totam noſtram juſtitiam poſit am eſſe in peccatorum noſtrorum remiſſione, quae ſit etiam, ut teſta<g ref="char:EOLhyphen"/>tur David. uni<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a noſtra felicitas.</hi> Gallic. Confeſſ. Art. 18.</p>
+                  <p>
+                     <hi>Cr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dim<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſt<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>am b<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>titudinem ſi<g ref="char:EOLhyphen"/>tam eſſe in pr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>catorum noſtrorum, propter J<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>um Chriſtum, remiſſione, at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> in ea juſtitiam noſtram coram Deo contineri, ut David &amp; Paulus docent, &amp;c.</hi> Belgic. Confeſſ. Art. 23.</p>
+               </note> Dr. <hi>Owen</hi> in his Book of <hi>Juſtification, p.</hi> 478. ſuppoſeth, That <hi>the Pardon of Sin can in no tolerable ſenſe be called the Gift of Righteouſ<g ref="char:EOLhyphen"/>neſs. Pardon of Sin is one thing, and Righteouſneſs another.</hi> As to which I grant, that Pardon of Sin can in no tolerable ſenſe be counted the Righ<g ref="char:EOLhyphen"/>teouſneſs of the Law as diſtinct from the Go<g ref="char:EOLhyphen"/>ſpel, becauſe that ſtands in perfect and per<g ref="char:EOLhyphen"/>petual Obedience; and the Law being once broken, can never by it ſelf juſtify the Tranſ<g ref="char:EOLhyphen"/>greſſor, but only curſe and condemn him. But the Righteouſneſs of the Goſpel, as diſtinct from the Law, ſtands in perfect pardon of Sin for the ſake of Chriſt, through Faith in his meritorious Croſs and Paſſion, cauſing in us holy Love and ſincere Obedience to all God's Commands, whereby we do <hi>Evangelically</hi> fulfil the Divine Law. This perfect pardon of Sin, is perfect Evangelical Righteouſneſs, it hath no flaw or defect at all, it gives us boldneſs with God, and ſure confidence at his Bar; it frees the Con<g ref="char:EOLhyphen"/>ſcience from inward Guilt, Terror, Curſe and Condemnation; and theſe being aboliſhed, in their room come Righteouſneſs, Joy, Peace with God, ſpiritual Conſolation, ſome degree of Victory over the World, the Fleſh, the Devil, Death, and the Gates of Hell. Tho our Faith and Repentance be weak and imperfect, yet being genuine and ſincere, they qualify and make us meet for, and worthy of perfect Pardon of Sin for the ſake of Chriſt. And having this perfect Pardon of Sin, we are bleſſed, we need no other Righteouſneſs for Juſtification and Admiſſion into the Kingdom of Heaven; dying pardoned, we are moſt ſurely for ever happy and bleſſed. This perfect Pardon of Sin, is the Righteouſneſs of God in Chriſt, he is the ſole Author of it; it is not legal, but ſupra-legal Righteouſneſs, a more Noble, Divine, Tranſcendent, Sublime, Glorious, Myſterious, Sure, Stable, Permanent, Sweet and Precious Righteouſneſs, than that of the Law, ſuch as <hi>Adam</hi> had before his Fall; for that was defectible, but ſo is not this; for, as I before noted of God, <hi>whom he juſtified, them he alſo glorified.</hi>
+            </p>
+            <p n="15">15. Mr. <hi>Truman</hi> in his <hi>Great Propitiation,</hi> p. 258. holds, That <hi>there is no ſuch thing as receiving Righteouſneſs, or Juſtification, or Pardon.</hi> As this Aſ<g ref="char:EOLhyphen"/>ſertion contradicteth many plain Scriptures,
+<note place="margin">Pſ. 24.5. Rom. 5.11, 17. Acts 10.43. &amp; 26.18. 1 Cor. 4.7. Joh. 3.27.</note> ſo it is con<g ref="char:EOLhyphen"/>trary to the Grounds of Religion: For if there be no ſuch thing as receiving Righteouſneſs, or Juſtification, or Par<g ref="char:EOLhyphen"/>don, then there is no ſuch thing as giving them in Chriſt; and then we have theſe ſupream Bleſſings of Debt, and not of Grace, and then we owe no Thanks at all to God for them; but God is altogether beholden to us for our Merits, and not we to him for any
+<pb n="7" facs="tcp:32593:4"/>ſpecial and differencing Grace. If it be ſaid, that our Receiving is but Me<g ref="char:EOLhyphen"/>taphorical, it will unavoidably follow, that God's giving heavenly good Things in Chriſt, is but Metaphorical, and ſo we can owe him but Meta<g ref="char:EOLhyphen"/>phorical Thanks; which Doctrine Chriſtian Ears cannot bear to hear.</p>
+            <p n="16">16. There are two kinds of Receiving,
+<note place="margin">1 Cor. 4.7. Mat. 23.14. Rom. 13.2. Heb. 2.2. Jam. 3.1. Luke 23.41. Rom. 11.35, 36.</note> Voluntary and Involuntary. In the former ſenſe, all Elect Angels and Men receive the firſt and the laſt Grace from God, the beginning, the middle, the end, even all: in this receiving they are free, and not forced, willing, and not unwilling; for no one can be Holy and Happy againſt his will. In the latter ſenſe, all the Devils and Reprobates in Hell, receive Damnation as the due reward of their Deeds; in this Receiving, they are forced, and not free, unwilling, and not willing; though they love Sin, yet they do not love Hell; and though they are willingly wicked, yet they are unwillingly damned.</p>
+            <p n="17">17. <note place="margin">
+                  <hi>Le Blanc. Theſ. Theolog. de Re<g ref="char:EOLhyphen"/>miſſ. peccator. num.</hi> 15.</note> God did from everlaſting purpoſe and determine, in time, for the ſake of Chriſt, and of his meritorious Croſs and Interceſſion, to give Faith and Repentance, and conſequent Pardon and Juſtification, to <hi>Peter</hi> and <hi>Paul,</hi> and the reſt of the Elect, and to none other. This ſuppoſed, their Faith and Repentance, and conſequent Pardon and Juſtification, are from Eter<g ref="char:EOLhyphen"/>nity infallibly future and ſure to be; and things future are as preſent to God, <hi>who calleth thoſe things which be not, as though they were,</hi> Rom. 4.17. But then it is plain, that till God give them Faith and Repentance, they re<g ref="char:EOLhyphen"/>main faithleſs and impenitent, dead in Sin, and reprobate to every good Work; and till they do ſincerely believe and repent, they remain un<g ref="char:EOLhyphen"/>pardoned, unjuſtified, condemned already, under the Wrath of God, ac<g ref="char:EOLhyphen"/>curſed, and liable to eternal Perdition. As God's purpoſe to create, is not Creation it ſelf,
+<note place="margin">John 3.18, 36. Epheſ. 2.1, 2, 3. Tit. 1.15, 16. 1 Pet. 2.9, 10. Gal. 3.10. 1 Cor. 16.22.</note> and God's purpoſe to judg the World, is not judging it; ſo God's purpoſe to give Faith and Repentance, is not giving them, and his purpoſe to par<g ref="char:EOLhyphen"/>don and juſtify, is not Pardon and Juſtification; they truly differ as Cauſe and Effect, as Antecedent and Conſequent; which two being confounded, there muſt needs be Error and Confuſion throughout the whole Frame and Method of Practical Di<g ref="char:EOLhyphen"/>vinity.</p>
+            <p n="18">18. <hi>By Grace are ye ſaved, through Faith; and that not of your ſelves, it is the Gift of God: not of Works, leſt any Man ſhould boaſt,</hi> Epheſ. 2.8, 9. <hi>Therefore it is of Faith, that it might be by Grace, to the end the Promiſe might be ſure to all the Seed,</hi> Rom. 4.16. It is by divine Belief of the Doctrine of Repentance, and Remiſſion of Sins in Chriſt's Name, and by
+<pb n="8" facs="tcp:32593:5"/>divine Belief only that we diſcern ſpiritual Things ſpiritually, chuſe the way of Truth, renounce the way of Sin, give Glory to God, truſt wholly and only in him, and his eternal Grace and Mercy in Chriſt, for par<g ref="char:EOLhyphen"/>don of Sin and Life Eternal, receive Jeſus Chriſt and all Spiritual Bleſſings in him; overcome Satan and the World, walk with God in Holineſs and Comfort; and ending our Courſe in true Faith, we paſs to Heaven,
+<note place="margin">
+                  <hi>Dr.</hi> Preſton <hi>of God's All-ſuffi<g ref="char:EOLhyphen"/>ciency,</hi> p. 12.</note> where Faith is turned into Viſion, and Hope into Fruition. And therefore it is that this ſame divine Belief is in the Scripture ſo frequently ſaid to be reckoned, counted; and imputed to us for Righteouſneſs, <hi>Jam.</hi> 2.23. <hi>Gal.</hi> 3.6. <hi>Gen.</hi> 15.6. <hi>Rom.</hi> 4.3, 5, 9, 10, 22, 23.</p>
+            <p n="19">19. We read of the ancient Saints, <hi>who through Faith wrought Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> Heb. 11.33.</p>
+            <p>Here are three things clearly diſtinct, the Agents, the Inſtruments, and the Work wrought.</p>
+            <p n="1">(1.) The Agents; and thoſe are real Saints, ſuch as <hi>Abel, Enoch, Noah, Abraham, Moſes, David,</hi> God's Elect and peculiar Ones.</p>
+            <p n="2">(2.) The Inſtrument by which they did act and work, and that is Faith, and Faith only, the divine Belief of the Doctrine of Repentance and eternal Redemption to loſt Mankind for the ſake of Chriſt, the ſole Mediator between God and Men.</p>
+            <p n="3">(3.) The Work wrought by them, and that is Righteouſneſs, conſiſt<g ref="char:EOLhyphen"/>ing in Piety towards God, in Juſtice and Charity towards our Brethren, in Sobriety, Temperance and Chaſtity towards our ſelves.</p>
+            <p n="20">20. This I think is the true way of reconciling <hi>Paul</hi> and <hi>James,</hi> and the only ſound Mean between the two pernicious Extreams of the <hi>Antinomians</hi> and <hi>Legaliſts.</hi> The Doctrine of the <hi>Antinomians</hi> ſubverteth Natural Reli<g ref="char:EOLhyphen"/>gion, and ſets up all Impiety, Licentiouſneſs, and abominable living by Law, for that it teacheth Pardon of Sin, and evangelical Juſtification by an imaginary and unſcriptural imputation of Chriſt's Righteouſneſs, be<g ref="char:EOLhyphen"/>fore and without Faith and Repentance. The Doctrine of the <hi>Legaliſts</hi> ſubverteth Supernatural Religion, and leadeth to deſpair, for that it con<g ref="char:EOLhyphen"/>foundeth the Law and the Goſpel, <hi>Moſes</hi> and <hi>Chriſt,</hi> and makes Eternal Salvation to be of Debt, and not of Grace. Jude 3. <hi>It was needful for me to write unto you, and exhort you, that ye ſhould earneſtly contend for the Faith which was once delivered unto the Saints.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
